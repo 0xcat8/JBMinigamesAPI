@@ -12,4 +12,6 @@ Some minigames already included
 
 You can build more games as you like.
 The plugin already contain a menu with votes all you need is to register new games and it will appear in the menu
+
+
 My old nickname is Just0ne AKA Angryx so maybe you'll find that name in the plugin.
